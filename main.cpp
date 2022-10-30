@@ -38,7 +38,7 @@ int main(int argc, char *argv[])
 
     bubbleSort(arr, numOfNumbers);
 
-    showArr(arr, numOfNumbers);
+    //showArr(arr, numOfNumbers);
 
     calculateMinMax(arr, numOfNumbers);
 
